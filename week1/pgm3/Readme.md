@@ -1,1 +1,1 @@
-
+Hurray, Google just showed up and is recruiting some students. Fahad is very interested in Google and wants to get placed. He is getting ready for the interview. He found his N certifictes stacked unorderly.His ith certificate has an importance A(i). Unfortunately, while leaving in a hurry, he only took the first m certificates from the stack. Interviewer asked him the most important certificate. Will him be able to show his most important certificate.

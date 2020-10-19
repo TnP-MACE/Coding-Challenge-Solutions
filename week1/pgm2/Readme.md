@@ -1,1 +1,1 @@
-
+As part of the TNP training program , many webinars and coding challenges are being conducted. There is a pattern which is seen when it comes to the number of participants in each session. Initially , if there are P number of participants , it is seen that only 80% of these participants attend the next session. If this pattern continues , what will be the participant count in the Nth session. Given the participant count in the first session.
